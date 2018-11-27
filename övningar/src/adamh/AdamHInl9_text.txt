@@ -1,0 +1,5 @@
+“Talk is cheap. Show me the code.” - Linus Torvald
+“I'm not a great programmer; I'm just a good programmer with great habits.” - Kent beck
+“Java is to JavaScript as ham is to hamster.” -  Jeremy Keith
+"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it" - Bill gates
+“First, solve the problem. Then, write the code.” – John Johnson
