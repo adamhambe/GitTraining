@@ -42,8 +42,6 @@ public class Övning_7b {
 		String c = String.format("%.2f", celsius);
 		JOptionPane.showMessageDialog(null, c + " degrees of Celsius is equal to " 
 		+ f + " degrees Fahrenheit");
-
-
 		
 	}
 
